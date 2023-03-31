@@ -31,15 +31,15 @@ plugins:
 
 # Page tree
 nav:
-  - Get started: index.md
-  - Install and upgrade doccano: install_and_upgrade_doccano.md
-  - Tutorial: tutorial.md
-  - Setup cloud storage: setup_cloud_storage.md
+  - Get started: INTRODICTION.md
+  - Install and upgrade doccano: INTRODICTION.md
+  - Tutorial: INTRODICTION.md
+  - Setup cloud storage: INTRODICTION.md
   - Advanced:
-      - AWS HTTPS settings: advanced/aws_https_settings.md
-      - OAuth2 settings: advanced/oauth2_settings.md
-      - Auto Labeling settings: advanced/auto_labelling_config.md
-  - Developer Guide: developer_guide.md
-  - FAQ: faq.md
-  - Code of Conduct: CODE_OF_CONDUCT.md
-  - Roadmap: roadmap.md
+      - AWS HTTPS settings: INTRODICTION.md
+      - OAuth2 settings: INTRODICTION.md
+      - Auto Labeling settings: INTRODICTION.md
+  - Developer Guide: INTRODICTION.md
+  - FAQ: INTRODICTION.md
+  - Code of Conduct: INTRODICTION.md
+  - Roadmap: INTRODICTION.md
